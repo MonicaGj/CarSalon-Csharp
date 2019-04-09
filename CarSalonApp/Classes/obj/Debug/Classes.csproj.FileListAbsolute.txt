@@ -1,0 +1,2 @@
+D:\sedc\csharp\CarSalon\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+D:\sedc\csharp\CarSalon\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+D:\sedc\csharp\CarSalon\Classes\obj\Release\Classes.csproj.CoreCompileInputs.cache
+D:\sedc\csharp\CarSalon\Classes\bin\Release\Classes.dll
+D:\sedc\csharp\CarSalon\Classes\bin\Release\Classes.pdb
+D:\sedc\csharp\CarSalon\Classes\obj\Release\Classes.dll
+D:\sedc\csharp\CarSalon\Classes\obj\Release\Classes.pdb
+D:\sedc\csharp\CarSalon\Classes\obj\Release\Classes.csprojAssemblyReference.cache

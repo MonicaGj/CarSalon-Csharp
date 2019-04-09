@@ -1,0 +1,1 @@
+D:\sedc\csharp\CarSalon\SalonApp\obj\Debug\SalonApp.csproj.CoreCompileInputs.cache

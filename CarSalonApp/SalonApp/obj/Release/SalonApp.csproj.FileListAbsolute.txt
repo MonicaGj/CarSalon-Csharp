@@ -1,0 +1,10 @@
+D:\sedc\csharp\CarSalon\SalonApp\obj\Release\SalonApp.csproj.CoreCompileInputs.cache
+D:\sedc\csharp\CarSalon\SalonApp\bin\Release\SalonApp.exe.config
+D:\sedc\csharp\CarSalon\SalonApp\bin\Release\SalonApp.exe
+D:\sedc\csharp\CarSalon\SalonApp\bin\Release\SalonApp.pdb
+D:\sedc\csharp\CarSalon\SalonApp\bin\Release\Classes.dll
+D:\sedc\csharp\CarSalon\SalonApp\bin\Release\Classes.pdb
+D:\sedc\csharp\CarSalon\SalonApp\obj\Release\SalonApp.csprojAssemblyReference.cache
+D:\sedc\csharp\CarSalon\SalonApp\obj\Release\SalonApp.csproj.CopyComplete
+D:\sedc\csharp\CarSalon\SalonApp\obj\Release\SalonApp.exe
+D:\sedc\csharp\CarSalon\SalonApp\obj\Release\SalonApp.pdb
